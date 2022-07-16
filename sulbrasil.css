@@ -1,0 +1,72 @@
+#footer{
+    background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
+}
+
+#col a{
+    color: white;
+}
+
+#header img{
+    width: 80px;
+    border-radius: 100px;
+}
+
+
+#sobre{
+    color: #97c93e ! important;
+}
+
+#productos{
+    color:#97c93e ! important;
+}
+
+#usados{
+    color:#97c93e ! important;
+}
+
+#clientes{
+    color: #97c93e ! important;
+}
+
+
+#puntos{
+    color: #97c93e ! important;
+}
+
+#main{
+    max-width: 60 vh;
+    object-fit: cover;
+    filter: grayscale(70%);
+}
+
+#carousel{
+    position: relative;
+}
+
+#carousel .overlay{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+#h1{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#h2{
+    color: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#sul{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#loquito{
+    background: red;
+}
+
